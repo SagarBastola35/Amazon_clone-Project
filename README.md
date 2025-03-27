@@ -1,1 +1,1 @@
-Projet Link: https://github.com/SagarBastola35/Amazon_clone-Project.git
+Projet Link: https://sagarbastola35.github.io/Amazon_clone-Project/
